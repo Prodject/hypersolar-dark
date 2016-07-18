@@ -1,7 +1,7 @@
 const foregroundColor = '#c4e2f2';
 const backgroundColor = '#002b36';
 const borderColor = '#335E69';
-const cursorColor = green;
+const cursorColor = '#add877';
 
 const black = '#26292c';
 const red = '#f69648';

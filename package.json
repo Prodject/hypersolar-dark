@@ -2,6 +2,7 @@
   "name": "hypersolar-dark",
   "version": "1.0.0",
   "description": "A hyperterm colour scheme based loosely on Solarized Dark",
+  "repository": "lewiscowper/hypersolar-dark",
   "main": "index.js",
   "scripts": {
     "test": "semistandard --fix"
