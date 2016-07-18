@@ -44,6 +44,12 @@ exports.decorateConfig = (config) => {
       brightMagenta,
       brightCyan,
       brightWhite
-    ]
+    ],
+    css: `
+			${config.css || ''}
+			.tab_active:before {
+        border-bottom: 1px solid ${backgroundColor} !important;
+			}
+		`
   });
 };
