@@ -48,7 +48,7 @@ exports.decorateConfig = (config) => {
     css: `
 			${config.css || ''}
 			.tab_active:before {
-        border-bottom: 1px solid ${backgroundColor} !important;
+        border-bottom: 1px solid #002b36 !important;
 			}
 		`
   });
