@@ -3,7 +3,7 @@ const backgroundColor = '#002b36';
 const borderColor = '#335E69';
 const cursorColor = '#add877';
 
-const black = '#26292c';
+const black = '#073642';
 const red = '#f69648';
 const green = '#add877';
 const yellow = '#f6f080';
