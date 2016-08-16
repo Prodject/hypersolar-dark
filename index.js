@@ -3,7 +3,7 @@ const backgroundColor = '#002b36';
 const borderColor = '#335E69';
 const cursorColor = '#add877';
 
-const black = '#073642';
+const black = '#4b4b4b';
 const red = '#f69648';
 const green = '#add877';
 const yellow = '#f6f080';
@@ -12,7 +12,7 @@ const magenta = '#7d72c8';
 const cyan = '#e05178';
 const white = '#ffffff';
 
-const brightBlack = '#262721';
+const brightBlack = '#4b4b4b';
 const brightRed = '#dc412f';
 const brightGreen = '#b5d839';
 const brightYellow = '#ff9c5a';
